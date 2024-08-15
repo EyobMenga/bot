@@ -1,0 +1,15 @@
+aiohttp
+aiogram
+beautifulsoup4
+python-telegram-bot
+requests
+selenium
+webdriver-manager
+
+
+
+
+
+
+
+
